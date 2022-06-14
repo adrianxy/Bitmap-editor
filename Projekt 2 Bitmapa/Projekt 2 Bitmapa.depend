@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1610310390 source:c:\adrian\pg\lab z pop\projekt 2 bitmapa\main.cpp
+	<iostream>
+	<fstream>
+	<string>
+
+1610313992 source:c:\adrian\.pg\semestr 1\podstawy programowania\projekty z pop\projekt 2 bitmapa\main.cpp
+	<iostream>
+	<fstream>
+	<string>
+
