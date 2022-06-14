@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1655247669 source:c:\adrian\.pg\semestr 1\podstawy programowania\projekty z pop\projekt 2 bitmap editor\main.cpp
+	<iostream>
+	<fstream>
+	<string>
+
