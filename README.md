@@ -5,4 +5,8 @@ Program umożliwia następujące działania na plikach typu BMP:
 - wyodrębnienie jednego koloru (red, green, blue)
 - rozmycie całego obrazu
 
-![działanie programu](https://user-images.githubusercontent.com/84225546/173703687-5a338268-aa76-4678-bc2f-e90185ad9d6f.png)
+# Przykłądowe użcyie programu:
+![działanie programu](https://user-images.githubusercontent.com/84225546/173704054-de9acc32-6668-4128-9f58-7cf63276044a.png)
+
+# Wynik działania programu:
+![wyniki programu](https://user-images.githubusercontent.com/84225546/173704150-ab38dbf5-13bd-4beb-b38b-4707cdb6a3a8.png)
